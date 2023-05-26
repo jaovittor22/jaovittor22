@@ -3,7 +3,7 @@
 My name is João Vitor Borges de Souza and I'm a Front-End Developer.
 <hr>
 . 📍 Living in Paranavaí, PR <br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-jaovittor22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afreitasduarte/)](https://www.linkedin.com/in/joaovitorborgess/)
+
 
 
 
