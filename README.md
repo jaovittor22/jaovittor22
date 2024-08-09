@@ -3,7 +3,7 @@
 <hr>
 My name is João Vitor Borges de Souza and I'm a Front-End Developer.
 <hr>
-. 📍 Living in Paranavaí, PR <br><br>
+. 📍 Living in Maringá, PR <br><br>
 
 
 ### What I'm working on 👨‍💻
